@@ -1,1 +1,1 @@
-print("Benie is awesome!")
+print("Benie is great!")
