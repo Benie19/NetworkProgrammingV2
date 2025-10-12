@@ -1,0 +1,4 @@
+Text: Hello, Mars!
+Sensor: 42.41999816894531
+Alert: Warning: Low battery!
+ERROR: Unknown message type 153. Payload: b'Unknown message type!'
