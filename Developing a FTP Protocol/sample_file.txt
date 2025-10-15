@@ -1,0 +1,22 @@
+The quick brown fox jumps over the lazy dog.
+This is a sample text file used to test the file transfer system.
+It contains multiple lines, punctuation, and a bit of repetition to help test compression efficiency.
+
+When transmitting files over a network, we must ensure:
+1. Data integrity (using checksums)
+2. Reliability (ACK and retransmission)
+3. Efficiency (chunk-based transmission)
+4. Security (encryption like AES-256)
+5. Compression (to save bandwidth)
+
+Here’s some repeated text to help gzip do its job better:
+Data transmission is reliable when data transmission is confirmed with an acknowledgment.
+Data transmission is reliable when data transmission is confirmed with an acknowledgment.
+Data transmission is reliable when data transmission is confirmed with an acknowledgment.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. 
+Integer non ligula sit amet lectus faucibus lacinia in in metus. 
+Vestibulum eu felis eros. Donec bibendum, justo sit amet convallis luctus, velit nunc malesuada justo, nec volutpat augue mi a justo.
+
+The end of this file marks the successful test of the chunk-based, checksum-protected, compressed, and secure file transfer system.
