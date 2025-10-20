@@ -3,6 +3,13 @@ import time
 import pickle
 import threading
 import hashlib
+from Crypto.Cipher import AES
+from Crypto.Protocol.KDF import PBKDF2
+
+# encryption key (must match sender)
+PASSWORD = b"dtn-secret"
+SALT = b"dtn-salt"
+KEY = PBKDF2(PASSWORD, SALT, dkLen=32, count=100_000)
 
 # Simple in-memory store: destination -> { 'urgent': [msgs], 'normal': [msgs] }
 message_store = {}
@@ -38,6 +45,14 @@ def compute_checksum(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
+def aes_decrypt(key: bytes, blob: bytes) -> bytes:
+    iv = blob[:16]
+    tag = blob[16:32]
+    ciphertext = blob[32:]
+    cipher = AES.new(key, AES.MODE_GCM, nonce=iv)
+    return cipher.decrypt_and_verify(ciphertext, tag)
+
+
 def forward_to_next_hop(message: dict):
     """If message contains a 'route' list of (host,port), attempt to forward to next hop."""
     route = message.get('route')
@@ -70,11 +85,17 @@ def handle_client(conn, addr):
             payload = msg.get('payload')  # bytes (encrypted)
             checksum = msg.get('checksum')
 
-            # Validate checksum before storing
-            calc = compute_checksum(payload)
+            # Decrypt to validate checksum (we still store the encrypted blob)
+            try:
+                plaintext = aes_decrypt(KEY, payload)
+            except Exception as e:
+                print(f"Decryption failed for message from {msg.get('from')} -> {dest}: {e}")
+                send_msg(conn, {'status': 'nack', 'reason': 'decrypt_failed'})
+                return
+
+            calc = compute_checksum(plaintext)
             if checksum != calc:
                 print(f"Checksum mismatch for message from {msg.get('from')} -> {dest}. Dropping.")
-                # Send negative ack
                 send_msg(conn, {'status': 'nack', 'reason': 'checksum_mismatch'})
                 return
 
