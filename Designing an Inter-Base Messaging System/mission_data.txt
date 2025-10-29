@@ -1,0 +1,505 @@
+================================================================================
+DEEP SPACE MISSION TELEMETRY LOG
+================================================================================
+Mission: ISS-RESUPPLY
+Log Generated: 2025-10-26 15:28:17 UTC
+Ground Station: DSN-43 Canberra
+================================================================================
+
+[2025-10-26 12:14:04] PROPULSION      | Status: NOMINAL    | Temp:  101.74C | Voltage:  20.65V | Current:   7.87A | Pressure:   6.37PSI
+[2025-10-26 12:29:38] POWER           | Status: NOMINAL    | Temp:   80.63C | Voltage:  47.23V | Current:   6.63A | Pressure:   8.17PSI
+[2025-10-26 10:55:23] PROPULSION      | Status: NOMINAL    | Temp:   63.99C | Voltage:  44.46V | Current:  18.55A | Pressure:   9.44PSI
+[2025-10-26 06:11:26] LIFE_SUPPORT    | Status: NOMINAL    | Temp: -137.49C | Voltage:  35.58V | Current:  17.04A | Pressure:   6.24PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 14:30:31] NAVIGATION      | Status: OFFLINE    | Temp:   51.59C | Voltage:  25.61V | Current:  15.34A | Pressure:  13.02PSI
+[2025-10-25 22:34:56] POWER           | Status: OFFLINE    | Temp:  -53.32C | Voltage:  27.68V | Current:  17.82A | Pressure:  10.23PSI
+[2025-10-25 21:10:59] POWER           | Status: NOMINAL    | Temp:  -94.94C | Voltage:  25.35V | Current:  17.97A | Pressure:   2.06PSI
+  >> POSITION: Lat: -16.3008° Lon: -113.4937° Alt:    338753.94m
+[2025-10-26 13:41:24] POWER           | Status: DEGRADED   | Temp:  -15.19C | Voltage:  38.18V | Current:  10.58A | Pressure:  12.56PSI
+[2025-10-25 19:56:39] LIFE_SUPPORT    | Status: CRITICAL   | Temp:   79.69C | Voltage:   8.10V | Current:   0.67A | Pressure:  14.22PSI
+[2025-10-26 12:00:14] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  -70.78C | Voltage:  31.62V | Current:  15.60A | Pressure:   1.20PSI
+[2025-10-26 05:01:01] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -82.52C | Voltage:  19.10V | Current:   9.78A | Pressure:   7.25PSI
+  >> EVENT: Radiation shield activated
+[2025-10-25 21:45:05] POWER           | Status: WARNING    | Temp:  105.52C | Voltage:   1.99V | Current:  13.28A | Pressure:   7.05PSI
+[2025-10-25 20:23:00] POWER           | Status: DEGRADED   | Temp:   71.15C | Voltage:  31.17V | Current:   9.73A | Pressure:   8.42PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 19:59:26] POWER           | Status: CRITICAL   | Temp:  -70.97C | Voltage:  16.95V | Current:  13.55A | Pressure:  11.17PSI
+[2025-10-26 14:11:28] POWER           | Status: CRITICAL   | Temp: -124.59C | Voltage:  14.18V | Current:   1.21A | Pressure:  13.21PSI
+[2025-10-26 14:46:45] LIFE_SUPPORT    | Status: WARNING    | Temp:  -29.99C | Voltage:  11.74V | Current:  16.08A | Pressure:   4.56PSI
+[2025-10-26 08:05:20] NAVIGATION      | Status: CRITICAL   | Temp:   19.59C | Voltage:  16.10V | Current:  10.94A | Pressure:   2.96PSI
+[2025-10-25 22:48:17] NAVIGATION      | Status: WARNING    | Temp: -107.60C | Voltage:   4.87V | Current:   6.31A | Pressure:  14.87PSI
+[2025-10-26 03:23:13] PROPULSION      | Status: CRITICAL   | Temp:    5.22C | Voltage:  40.05V | Current:  17.05A | Pressure:   1.76PSI
+[2025-10-25 18:56:53] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -91.07C | Voltage:  48.37V | Current:  13.54A | Pressure:   5.92PSI
+  >> POSITION: Lat:  -2.2852° Lon:  60.3379° Alt:    313344.70m
+[2025-10-26 08:48:31] POWER           | Status: WARNING    | Temp:   39.88C | Voltage:  32.99V | Current:  17.16A | Pressure:  13.17PSI
+[2025-10-26 14:30:37] THERMAL         | Status: DEGRADED   | Temp:  141.24C | Voltage:  39.81V | Current:   7.66A | Pressure:   5.86PSI
+[2025-10-26 14:59:14] THERMAL         | Status: WARNING    | Temp:  149.42C | Voltage:   2.58V | Current:   7.74A | Pressure:  12.24PSI
+[2025-10-25 17:23:48] POWER           | Status: NOMINAL    | Temp:   70.80C | Voltage:  40.07V | Current:   5.47A | Pressure:   1.07PSI
+[2025-10-26 06:35:07] NAVIGATION      | Status: WARNING    | Temp:   57.90C | Voltage:  33.54V | Current:  11.92A | Pressure:   9.60PSI
+[2025-10-26 02:10:43] NAVIGATION      | Status: NOMINAL    | Temp: -123.48C | Voltage:  35.67V | Current:   3.82A | Pressure:   8.19PSI
+[2025-10-26 09:41:57] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   41.29C | Voltage:   1.39V | Current:  14.86A | Pressure:   0.42PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-26 02:06:35] COMMUNICATIONS  | Status: DEGRADED   | Temp:  -16.45C | Voltage:  44.33V | Current:   5.80A | Pressure:   5.30PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-26 08:24:03] NAVIGATION      | Status: NOMINAL    | Temp:   89.64C | Voltage:  31.84V | Current:   9.35A | Pressure:  14.91PSI
+[2025-10-26 13:26:54] NAVIGATION      | Status: CRITICAL   | Temp:  -64.48C | Voltage:   0.48V | Current:  11.30A | Pressure:  13.46PSI
+[2025-10-25 20:20:11] NAVIGATION      | Status: DEGRADED   | Temp:  -28.80C | Voltage:  18.74V | Current:   4.29A | Pressure:  14.38PSI
+[2025-10-25 17:48:39] POWER           | Status: CRITICAL   | Temp:  -14.59C | Voltage:  33.81V | Current:   9.65A | Pressure:   4.49PSI
+[2025-10-25 19:48:12] POWER           | Status: OFFLINE    | Temp:   57.82C | Voltage:  29.06V | Current:  17.00A | Pressure:   9.53PSI
+[2025-10-26 13:24:49] NAVIGATION      | Status: CRITICAL   | Temp:  131.99C | Voltage:   0.35V | Current:   8.57A | Pressure:  11.68PSI
+[2025-10-26 13:21:53] PROPULSION      | Status: WARNING    | Temp:  -62.42C | Voltage:  16.23V | Current:  16.51A | Pressure:   2.42PSI
+[2025-10-25 15:38:00] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  106.27C | Voltage:  49.23V | Current:   2.94A | Pressure:   6.56PSI
+[2025-10-25 22:59:01] THERMAL         | Status: NOMINAL    | Temp:  138.18C | Voltage:  29.42V | Current:  18.23A | Pressure:   5.30PSI
+[2025-10-25 22:20:04] COMMUNICATIONS  | Status: CRITICAL   | Temp:  -29.39C | Voltage:  33.95V | Current:   0.09A | Pressure:   7.20PSI
+[2025-10-25 20:45:21] POWER           | Status: OFFLINE    | Temp:   52.61C | Voltage:  45.55V | Current:  11.97A | Pressure:   0.92PSI
+[2025-10-26 12:09:27] PROPULSION      | Status: DEGRADED   | Temp:   14.33C | Voltage:  33.99V | Current:  15.63A | Pressure:  11.87PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 10:33:27] PROPULSION      | Status: CRITICAL   | Temp: -111.96C | Voltage:  36.97V | Current:   7.02A | Pressure:  12.72PSI
+[2025-10-26 10:32:45] COMMUNICATIONS  | Status: DEGRADED   | Temp:   79.08C | Voltage:  30.22V | Current:  15.52A | Pressure:   5.16PSI
+[2025-10-26 07:40:12] NAVIGATION      | Status: DEGRADED   | Temp:  -26.20C | Voltage:  27.02V | Current:  10.82A | Pressure:   5.43PSI
+[2025-10-26 15:22:48] NAVIGATION      | Status: OFFLINE    | Temp:  -47.12C | Voltage:  19.30V | Current:  15.11A | Pressure:   4.36PSI
+[2025-10-26 11:53:53] POWER           | Status: CRITICAL   | Temp:  100.54C | Voltage:  17.25V | Current:  11.14A | Pressure:   1.69PSI
+[2025-10-26 05:45:22] POWER           | Status: NOMINAL    | Temp:  147.05C | Voltage:  10.93V | Current:  16.82A | Pressure:   3.04PSI
+[2025-10-26 13:21:08] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  108.31C | Voltage:  17.44V | Current:   8.67A | Pressure:   0.57PSI
+[2025-10-26 01:29:58] COMMUNICATIONS  | Status: DEGRADED   | Temp:   35.74C | Voltage:  19.44V | Current:   7.86A | Pressure:  10.48PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-26 15:23:15] NAVIGATION      | Status: DEGRADED   | Temp:  -37.89C | Voltage:  12.04V | Current:  19.02A | Pressure:   1.56PSI
+[2025-10-26 01:00:16] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   73.94C | Voltage:  25.73V | Current:   9.99A | Pressure:   3.19PSI
+[2025-10-25 18:58:26] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   -9.54C | Voltage:   2.95V | Current:   4.07A | Pressure:   9.45PSI
+[2025-10-25 16:20:03] COMMUNICATIONS  | Status: DEGRADED   | Temp:  -50.45C | Voltage:  42.53V | Current:  18.14A | Pressure:   9.75PSI
+[2025-10-25 18:29:34] POWER           | Status: WARNING    | Temp: -112.82C | Voltage:  24.50V | Current:   0.27A | Pressure:  10.83PSI
+[2025-10-25 18:22:47] THERMAL         | Status: CRITICAL   | Temp:   18.39C | Voltage:   6.08V | Current:   5.80A | Pressure:  11.12PSI
+  >> POSITION: Lat:  37.9160° Lon:  63.4149° Alt:    376235.59m
+[2025-10-26 15:23:14] COMMUNICATIONS  | Status: NOMINAL    | Temp:  -89.21C | Voltage:  14.25V | Current:   5.88A | Pressure:  13.41PSI
+  >> POSITION: Lat: -11.4080° Lon:  36.4448° Alt:    205376.96m
+[2025-10-26 12:08:32] PROPULSION      | Status: NOMINAL    | Temp:  -37.83C | Voltage:  21.65V | Current:   1.66A | Pressure:  12.37PSI
+[2025-10-26 01:36:11] LIFE_SUPPORT    | Status: NOMINAL    | Temp: -115.20C | Voltage:  27.98V | Current:   1.26A | Pressure:  13.77PSI
+[2025-10-26 06:52:31] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  -43.30C | Voltage:  46.80V | Current:   6.52A | Pressure:  12.37PSI
+[2025-10-26 12:11:10] NAVIGATION      | Status: WARNING    | Temp:  105.01C | Voltage:  42.36V | Current:  10.54A | Pressure:   2.77PSI
+[2025-10-25 16:11:19] POWER           | Status: NOMINAL    | Temp:  -97.59C | Voltage:  25.72V | Current:  11.46A | Pressure:  10.45PSI
+[2025-10-25 23:14:00] THERMAL         | Status: OFFLINE    | Temp:  -85.97C | Voltage:  47.76V | Current:   5.43A | Pressure:   8.55PSI
+[2025-10-26 15:09:25] NAVIGATION      | Status: DEGRADED   | Temp:    5.33C | Voltage:  34.39V | Current:   0.18A | Pressure:   9.88PSI
+[2025-10-26 04:14:13] COMMUNICATIONS  | Status: CRITICAL   | Temp: -146.21C | Voltage:  18.78V | Current:   4.30A | Pressure:  12.05PSI
+[2025-10-26 11:30:40] COMMUNICATIONS  | Status: CRITICAL   | Temp:  -61.79C | Voltage:  48.66V | Current:  14.23A | Pressure:   5.99PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-26 12:57:17] THERMAL         | Status: CRITICAL   | Temp:  -58.87C | Voltage:   6.57V | Current:   4.13A | Pressure:   1.20PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-26 09:46:13] PROPULSION      | Status: WARNING    | Temp:  -19.31C | Voltage:  49.84V | Current:  16.24A | Pressure:   6.74PSI
+[2025-10-26 13:48:52] PROPULSION      | Status: CRITICAL   | Temp:   -4.28C | Voltage:  48.52V | Current:   6.39A | Pressure:  13.86PSI
+  >> EVENT: Radiation shield activated
+  >> POSITION: Lat: -76.1092° Lon: 178.0346° Alt:    268034.75m
+[2025-10-26 04:13:51] POWER           | Status: NOMINAL    | Temp:  -81.16C | Voltage:   1.30V | Current:  14.94A | Pressure:  14.39PSI
+[2025-10-26 00:28:21] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  -68.30C | Voltage:  15.05V | Current:   3.16A | Pressure:   0.30PSI
+[2025-10-26 05:32:43] LIFE_SUPPORT    | Status: CRITICAL   | Temp: -108.70C | Voltage:   4.66V | Current:   2.18A | Pressure:   7.74PSI
+[2025-10-25 23:41:25] COMMUNICATIONS  | Status: NOMINAL    | Temp:  149.58C | Voltage:  46.85V | Current:   7.34A | Pressure:   0.43PSI
+[2025-10-26 11:23:21] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   10.50C | Voltage:   8.68V | Current:   0.12A | Pressure:  10.46PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-26 06:02:24] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   74.01C | Voltage:  27.14V | Current:  11.54A | Pressure:   6.77PSI
+[2025-10-26 03:14:45] LIFE_SUPPORT    | Status: DEGRADED   | Temp: -135.17C | Voltage:  24.15V | Current:   8.73A | Pressure:  12.78PSI
+[2025-10-26 01:56:51] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  140.45C | Voltage:  48.56V | Current:  10.64A | Pressure:  14.54PSI
+[2025-10-25 21:39:11] POWER           | Status: NOMINAL    | Temp:   -2.35C | Voltage:  43.81V | Current:   4.75A | Pressure:   9.19PSI
+[2025-10-25 19:27:20] COMMUNICATIONS  | Status: WARNING    | Temp: -113.35C | Voltage:  48.78V | Current:   0.39A | Pressure:   4.91PSI
+[2025-10-26 08:18:44] NAVIGATION      | Status: OFFLINE    | Temp:   34.32C | Voltage:  31.52V | Current:   2.23A | Pressure:   9.51PSI
+[2025-10-25 20:56:55] THERMAL         | Status: NOMINAL    | Temp:   47.03C | Voltage:  29.44V | Current:   7.57A | Pressure:   6.79PSI
+[2025-10-26 12:37:36] COMMUNICATIONS  | Status: OFFLINE    | Temp:   65.01C | Voltage:   6.23V | Current:   7.43A | Pressure:  13.37PSI
+[2025-10-25 15:49:14] POWER           | Status: DEGRADED   | Temp:  -67.22C | Voltage:  28.39V | Current:  18.77A | Pressure:  12.71PSI
+[2025-10-25 22:04:32] PROPULSION      | Status: NOMINAL    | Temp:  101.17C | Voltage:   3.59V | Current:   9.90A | Pressure:   7.33PSI
+  >> POSITION: Lat: -22.8951° Lon: 168.6340° Alt:    338756.75m
+[2025-10-25 17:22:07] POWER           | Status: CRITICAL   | Temp:  -95.25C | Voltage:   0.27V | Current:  18.38A | Pressure:   3.11PSI
+[2025-10-26 05:59:31] THERMAL         | Status: NOMINAL    | Temp:   -3.18C | Voltage:  31.80V | Current:   5.48A | Pressure:  12.29PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 01:09:02] POWER           | Status: WARNING    | Temp:  -54.52C | Voltage:  34.97V | Current:   7.68A | Pressure:   4.12PSI
+[2025-10-26 14:19:52] COMMUNICATIONS  | Status: NOMINAL    | Temp:   87.93C | Voltage:  29.93V | Current:  14.69A | Pressure:   7.97PSI
+[2025-10-25 22:55:14] PROPULSION      | Status: CRITICAL   | Temp:  -40.51C | Voltage:  15.36V | Current:   9.78A | Pressure:  13.92PSI
+[2025-10-26 01:21:17] PROPULSION      | Status: WARNING    | Temp:   99.08C | Voltage:  22.67V | Current:  19.13A | Pressure:   6.33PSI
+[2025-10-26 13:40:42] LIFE_SUPPORT    | Status: CRITICAL   | Temp: -135.15C | Voltage:  26.02V | Current:   5.41A | Pressure:  10.89PSI
+  >> POSITION: Lat: -87.8167° Lon: -74.6545° Alt:    215400.98m
+[2025-10-26 05:30:25] LIFE_SUPPORT    | Status: DEGRADED   | Temp:  144.65C | Voltage:  17.91V | Current:  14.70A | Pressure:  14.19PSI
+  >> POSITION: Lat:  19.4406° Lon: -61.0816° Alt:    358823.50m
+[2025-10-26 07:56:14] LIFE_SUPPORT    | Status: DEGRADED   | Temp:  143.91C | Voltage:  34.24V | Current:  17.38A | Pressure:   0.67PSI
+[2025-10-26 06:04:32] COMMUNICATIONS  | Status: DEGRADED   | Temp:  105.49C | Voltage:  17.01V | Current:  18.96A | Pressure:  14.71PSI
+[2025-10-26 07:39:04] LIFE_SUPPORT    | Status: WARNING    | Temp:  -60.70C | Voltage:  15.08V | Current:  16.93A | Pressure:   0.61PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-26 02:21:51] PROPULSION      | Status: OFFLINE    | Temp: -134.74C | Voltage:  42.14V | Current:   4.54A | Pressure:   7.68PSI
+  >> EVENT: Data downlink scheduled
+  >> POSITION: Lat: -21.0108° Lon: 139.9883° Alt:    366865.53m
+[2025-10-26 02:55:40] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   27.02C | Voltage:  46.70V | Current:  16.88A | Pressure:   8.23PSI
+[2025-10-26 13:01:09] POWER           | Status: WARNING    | Temp:  -13.90C | Voltage:  29.58V | Current:  15.15A | Pressure:  14.67PSI
+  >> POSITION: Lat: -53.1778° Lon: -19.0597° Alt:    347352.43m
+[2025-10-26 12:47:39] PROPULSION      | Status: NOMINAL    | Temp:  -39.75C | Voltage:   6.18V | Current:   7.47A | Pressure:   4.59PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 18:04:55] COMMUNICATIONS  | Status: DEGRADED   | Temp:   41.96C | Voltage:  44.86V | Current:  11.21A | Pressure:  13.15PSI
+[2025-10-26 03:45:42] POWER           | Status: NOMINAL    | Temp:  103.93C | Voltage:   3.54V | Current:  15.01A | Pressure:   6.00PSI
+  >> POSITION: Lat:  -2.2438° Lon: -77.9287° Alt:    343750.34m
+[2025-10-26 07:18:53] LIFE_SUPPORT    | Status: OFFLINE    | Temp: -135.15C | Voltage:  47.61V | Current:   5.76A | Pressure:   4.37PSI
+[2025-10-26 04:52:30] PROPULSION      | Status: OFFLINE    | Temp:   97.15C | Voltage:   7.37V | Current:  10.39A | Pressure:  11.68PSI
+[2025-10-26 12:44:27] PROPULSION      | Status: CRITICAL   | Temp:   35.45C | Voltage:  41.22V | Current:   4.58A | Pressure:  10.41PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-25 20:17:51] PROPULSION      | Status: CRITICAL   | Temp:  -75.88C | Voltage:  44.99V | Current:  10.10A | Pressure:   3.87PSI
+[2025-10-26 02:39:03] LIFE_SUPPORT    | Status: DEGRADED   | Temp:  149.08C | Voltage:  46.60V | Current:  12.09A | Pressure:  11.86PSI
+[2025-10-26 05:44:38] PROPULSION      | Status: OFFLINE    | Temp:  101.51C | Voltage:  25.09V | Current:  18.54A | Pressure:  14.79PSI
+[2025-10-25 16:01:45] NAVIGATION      | Status: DEGRADED   | Temp: -107.24C | Voltage:   0.93V | Current:   8.66A | Pressure:  12.67PSI
+[2025-10-26 11:09:52] POWER           | Status: WARNING    | Temp:   42.32C | Voltage:  46.51V | Current:  17.47A | Pressure:   6.35PSI
+[2025-10-26 08:39:41] NAVIGATION      | Status: DEGRADED   | Temp:   52.35C | Voltage:   9.90V | Current:  11.56A | Pressure:   9.40PSI
+[2025-10-26 12:51:00] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -89.87C | Voltage:  34.31V | Current:  12.68A | Pressure:   0.06PSI
+[2025-10-26 05:45:02] THERMAL         | Status: CRITICAL   | Temp:    9.02C | Voltage:  22.78V | Current:  10.97A | Pressure:   9.73PSI
+  >> POSITION: Lat: -37.3510° Lon: -107.7276° Alt:    289373.88m
+[2025-10-26 04:46:49] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  126.64C | Voltage:  11.08V | Current:  18.76A | Pressure:  13.51PSI
+[2025-10-26 03:27:27] THERMAL         | Status: CRITICAL   | Temp: -101.68C | Voltage:   1.63V | Current:   1.29A | Pressure:  14.73PSI
+[2025-10-26 14:46:01] COMMUNICATIONS  | Status: WARNING    | Temp:   -0.04C | Voltage:  29.96V | Current:   5.48A | Pressure:   1.10PSI
+  >> POSITION: Lat: -73.6528° Lon: 164.6391° Alt:    273452.94m
+[2025-10-26 04:28:17] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   82.87C | Voltage:  39.97V | Current:   0.91A | Pressure:   5.31PSI
+[2025-10-26 06:11:46] PROPULSION      | Status: NOMINAL    | Temp:  -43.31C | Voltage:   3.88V | Current:  13.85A | Pressure:  14.87PSI
+[2025-10-25 19:10:40] POWER           | Status: DEGRADED   | Temp:   52.21C | Voltage:  38.13V | Current:   0.23A | Pressure:   1.14PSI
+[2025-10-26 01:45:32] POWER           | Status: WARNING    | Temp:  132.80C | Voltage:  24.85V | Current:   6.59A | Pressure:  12.60PSI
+[2025-10-26 08:33:24] LIFE_SUPPORT    | Status: CRITICAL   | Temp:   50.73C | Voltage:  42.73V | Current:  14.43A | Pressure:   5.37PSI
+[2025-10-26 08:05:52] PROPULSION      | Status: DEGRADED   | Temp:   49.03C | Voltage:  20.59V | Current:  19.19A | Pressure:  13.45PSI
+[2025-10-26 14:03:15] POWER           | Status: OFFLINE    | Temp:  109.24C | Voltage:  44.72V | Current:   7.36A | Pressure:   4.44PSI
+[2025-10-26 10:22:08] COMMUNICATIONS  | Status: OFFLINE    | Temp: -126.37C | Voltage:  41.11V | Current:   7.76A | Pressure:  13.32PSI
+[2025-10-26 07:52:25] POWER           | Status: OFFLINE    | Temp:   -3.82C | Voltage:  23.37V | Current:  10.08A | Pressure:   5.51PSI
+[2025-10-25 18:42:15] NAVIGATION      | Status: NOMINAL    | Temp:   99.00C | Voltage:  21.48V | Current:   7.64A | Pressure:   0.82PSI
+[2025-10-25 21:18:14] NAVIGATION      | Status: CRITICAL   | Temp:   84.10C | Voltage:   8.19V | Current:  19.53A | Pressure:   9.33PSI
+[2025-10-26 05:08:08] NAVIGATION      | Status: OFFLINE    | Temp:   -8.48C | Voltage:  29.97V | Current:   3.51A | Pressure:   8.25PSI
+[2025-10-25 16:32:07] PROPULSION      | Status: OFFLINE    | Temp:  108.36C | Voltage:  22.46V | Current:  16.34A | Pressure:   8.51PSI
+[2025-10-26 09:43:58] POWER           | Status: NOMINAL    | Temp:  -83.68C | Voltage:  44.75V | Current:  13.26A | Pressure:   7.17PSI
+[2025-10-26 09:34:41] PROPULSION      | Status: WARNING    | Temp:  -59.37C | Voltage:  16.72V | Current:  16.84A | Pressure:   4.37PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 10:45:45] PROPULSION      | Status: OFFLINE    | Temp:  129.78C | Voltage:  20.99V | Current:   9.50A | Pressure:  10.55PSI
+  >> POSITION: Lat:  50.6613° Lon:  -9.1358° Alt:    336844.91m
+[2025-10-26 06:33:08] THERMAL         | Status: NOMINAL    | Temp: -102.38C | Voltage:  48.70V | Current:   1.48A | Pressure:  14.02PSI
+[2025-10-26 14:08:33] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   60.51C | Voltage:  22.83V | Current:  16.18A | Pressure:   9.35PSI
+  >> POSITION: Lat: -58.2708° Lon: -36.4610° Alt:    305968.02m
+[2025-10-26 07:04:08] COMMUNICATIONS  | Status: WARNING    | Temp: -135.58C | Voltage:  37.82V | Current:   7.72A | Pressure:  13.65PSI
+[2025-10-26 14:10:37] LIFE_SUPPORT    | Status: CRITICAL   | Temp: -100.77C | Voltage:  30.09V | Current:  16.04A | Pressure:  14.17PSI
+[2025-10-26 01:35:48] COMMUNICATIONS  | Status: NOMINAL    | Temp:  -49.44C | Voltage:  29.26V | Current:  11.43A | Pressure:   1.15PSI
+[2025-10-26 07:22:48] PROPULSION      | Status: DEGRADED   | Temp:   20.00C | Voltage:  22.12V | Current:  13.83A | Pressure:  13.44PSI
+  >> POSITION: Lat: -46.8657° Lon: -163.0909° Alt:    281436.60m
+[2025-10-26 00:23:10] POWER           | Status: NOMINAL    | Temp:   73.19C | Voltage:  35.84V | Current:  17.24A | Pressure:   9.87PSI
+[2025-10-26 07:53:01] COMMUNICATIONS  | Status: WARNING    | Temp:  136.60C | Voltage:  20.91V | Current:   5.27A | Pressure:   7.10PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 12:42:59] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  138.41C | Voltage:   5.58V | Current:  16.42A | Pressure:  12.01PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-26 15:17:47] POWER           | Status: DEGRADED   | Temp:  -53.53C | Voltage:  21.10V | Current:   2.67A | Pressure:  14.53PSI
+[2025-10-25 21:26:45] POWER           | Status: OFFLINE    | Temp: -122.36C | Voltage:   1.54V | Current:   6.89A | Pressure:   0.29PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-25 21:32:14] POWER           | Status: DEGRADED   | Temp:  -81.65C | Voltage:  45.22V | Current:  12.98A | Pressure:   1.40PSI
+[2025-10-26 13:45:52] POWER           | Status: NOMINAL    | Temp: -111.96C | Voltage:  21.20V | Current:   5.91A | Pressure:   3.23PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-25 19:11:35] COMMUNICATIONS  | Status: DEGRADED   | Temp:  -78.57C | Voltage:  29.47V | Current:  14.26A | Pressure:  14.91PSI
+[2025-10-25 19:06:20] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -98.11C | Voltage:  47.90V | Current:  16.99A | Pressure:  14.08PSI
+[2025-10-25 17:03:09] LIFE_SUPPORT    | Status: WARNING    | Temp:  137.82C | Voltage:   6.63V | Current:   9.15A | Pressure:   1.51PSI
+[2025-10-25 18:59:28] COMMUNICATIONS  | Status: DEGRADED   | Temp:  132.76C | Voltage:  14.03V | Current:   7.79A | Pressure:   7.57PSI
+[2025-10-26 00:11:30] PROPULSION      | Status: NOMINAL    | Temp:   36.38C | Voltage:   2.29V | Current:   4.79A | Pressure:   9.41PSI
+  >> EVENT: Instrument calibration in progress
+  >> POSITION: Lat:  75.2142° Lon: 116.5561° Alt:    329667.94m
+[2025-10-25 18:37:42] PROPULSION      | Status: OFFLINE    | Temp:   10.25C | Voltage:  43.42V | Current:   3.72A | Pressure:   0.25PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 09:11:04] NAVIGATION      | Status: WARNING    | Temp:   43.77C | Voltage:  34.91V | Current:   3.79A | Pressure:   2.89PSI
+[2025-10-25 21:46:26] PROPULSION      | Status: NOMINAL    | Temp:  -74.08C | Voltage:  20.22V | Current:   1.53A | Pressure:  13.93PSI
+[2025-10-26 09:31:48] NAVIGATION      | Status: DEGRADED   | Temp:  -97.43C | Voltage:  49.99V | Current:   1.49A | Pressure:   9.06PSI
+[2025-10-25 18:25:36] NAVIGATION      | Status: CRITICAL   | Temp:   50.82C | Voltage:   9.85V | Current:   2.49A | Pressure:   5.77PSI
+[2025-10-26 03:07:43] POWER           | Status: WARNING    | Temp:  -20.25C | Voltage:  33.67V | Current:   7.50A | Pressure:  14.37PSI
+[2025-10-25 18:06:20] LIFE_SUPPORT    | Status: NOMINAL    | Temp: -142.54C | Voltage:  35.62V | Current:   7.47A | Pressure:   9.98PSI
+[2025-10-25 17:15:29] NAVIGATION      | Status: NOMINAL    | Temp:   38.53C | Voltage:   5.31V | Current:  15.30A | Pressure:  14.65PSI
+  >> POSITION: Lat:  -6.8843° Lon: -114.0731° Alt:    229393.42m
+[2025-10-26 07:44:20] LIFE_SUPPORT    | Status: CRITICAL   | Temp:   30.94C | Voltage:   0.20V | Current:   7.62A | Pressure:   1.13PSI
+[2025-10-26 05:01:50] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   94.33C | Voltage:  39.07V | Current:   5.29A | Pressure:   5.51PSI
+[2025-10-25 23:38:19] THERMAL         | Status: NOMINAL    | Temp:   19.45C | Voltage:  47.90V | Current:  19.94A | Pressure:   0.31PSI
+[2025-10-26 08:18:40] PROPULSION      | Status: OFFLINE    | Temp:  -36.11C | Voltage:  27.14V | Current:   1.26A | Pressure:   8.66PSI
+  >> POSITION: Lat:  -4.8909° Lon: -142.0174° Alt:    265952.50m
+[2025-10-26 10:31:47] PROPULSION      | Status: WARNING    | Temp:  103.22C | Voltage:  48.96V | Current:  12.91A | Pressure:  11.92PSI
+[2025-10-25 23:18:07] COMMUNICATIONS  | Status: OFFLINE    | Temp:  -53.68C | Voltage:  16.22V | Current:  15.68A | Pressure:   3.18PSI
+[2025-10-26 01:31:22] COMMUNICATIONS  | Status: OFFLINE    | Temp:   29.06C | Voltage:  31.50V | Current:   8.77A | Pressure:  10.74PSI
+[2025-10-26 04:00:45] THERMAL         | Status: DEGRADED   | Temp: -143.60C | Voltage:  30.33V | Current:   8.13A | Pressure:   0.51PSI
+[2025-10-25 15:51:26] THERMAL         | Status: CRITICAL   | Temp:   26.18C | Voltage:   0.85V | Current:   8.98A | Pressure:  12.81PSI
+[2025-10-25 16:51:42] POWER           | Status: NOMINAL    | Temp:   50.11C | Voltage:  23.58V | Current:   8.35A | Pressure:   3.00PSI
+[2025-10-26 13:00:57] POWER           | Status: DEGRADED   | Temp:  -76.92C | Voltage:  15.46V | Current:  10.32A | Pressure:   1.06PSI
+[2025-10-26 13:07:41] NAVIGATION      | Status: NOMINAL    | Temp: -137.04C | Voltage:  28.16V | Current:  19.27A | Pressure:  14.73PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-25 20:31:57] POWER           | Status: CRITICAL   | Temp:   79.13C | Voltage:  46.45V | Current:   0.83A | Pressure:   4.80PSI
+[2025-10-26 07:11:23] COMMUNICATIONS  | Status: NOMINAL    | Temp:  -39.36C | Voltage:  22.02V | Current:  13.25A | Pressure:   5.99PSI
+[2025-10-26 03:38:18] LIFE_SUPPORT    | Status: CRITICAL   | Temp:    8.56C | Voltage:  16.98V | Current:  11.76A | Pressure:  14.40PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-26 05:59:46] LIFE_SUPPORT    | Status: DEGRADED   | Temp:    9.45C | Voltage:   5.77V | Current:  18.07A | Pressure:  12.58PSI
+[2025-10-26 12:53:44] POWER           | Status: OFFLINE    | Temp:  -53.41C | Voltage:  37.48V | Current:   4.85A | Pressure:  11.64PSI
+[2025-10-26 11:31:27] COMMUNICATIONS  | Status: OFFLINE    | Temp:  -41.49C | Voltage:  31.64V | Current:  10.97A | Pressure:   2.46PSI
+[2025-10-26 01:19:37] THERMAL         | Status: WARNING    | Temp:   93.88C | Voltage:  31.26V | Current:  17.15A | Pressure:   5.13PSI
+[2025-10-26 04:34:10] NAVIGATION      | Status: WARNING    | Temp: -103.82C | Voltage:  24.47V | Current:  11.06A | Pressure:   3.78PSI
+[2025-10-25 23:52:30] THERMAL         | Status: WARNING    | Temp:   77.90C | Voltage:   3.71V | Current:  13.03A | Pressure:   5.66PSI
+[2025-10-25 15:53:53] PROPULSION      | Status: WARNING    | Temp: -106.16C | Voltage:  11.20V | Current:  10.39A | Pressure:   6.09PSI
+  >> POSITION: Lat: -75.8395° Lon:  62.7384° Alt:    307664.69m
+[2025-10-25 21:29:48] PROPULSION      | Status: OFFLINE    | Temp:  121.01C | Voltage:  34.37V | Current:  13.59A | Pressure:   0.32PSI
+[2025-10-26 02:28:32] PROPULSION      | Status: NOMINAL    | Temp:  -37.77C | Voltage:  32.06V | Current:   9.81A | Pressure:   4.15PSI
+[2025-10-25 22:27:51] PROPULSION      | Status: WARNING    | Temp:   63.42C | Voltage:  34.29V | Current:  10.40A | Pressure:   6.44PSI
+[2025-10-26 10:02:18] LIFE_SUPPORT    | Status: WARNING    | Temp:    5.96C | Voltage:  25.40V | Current:  10.06A | Pressure:   6.32PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 20:11:46] COMMUNICATIONS  | Status: CRITICAL   | Temp:  -67.20C | Voltage:  20.97V | Current:   0.57A | Pressure:   8.75PSI
+  >> POSITION: Lat: -47.2759° Lon:  66.9812° Alt:    269020.01m
+[2025-10-26 14:12:42] NAVIGATION      | Status: WARNING    | Temp:  -49.64C | Voltage:  13.09V | Current:  11.96A | Pressure:   9.32PSI
+[2025-10-26 13:52:27] LIFE_SUPPORT    | Status: DEGRADED   | Temp:  -38.75C | Voltage:  42.85V | Current:   8.99A | Pressure:   7.10PSI
+[2025-10-26 13:21:46] POWER           | Status: DEGRADED   | Temp: -128.63C | Voltage:  20.08V | Current:  16.32A | Pressure:  12.29PSI
+[2025-10-26 06:15:19] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -12.57C | Voltage:  32.28V | Current:   1.14A | Pressure:  13.98PSI
+[2025-10-26 15:02:47] LIFE_SUPPORT    | Status: NOMINAL    | Temp:   92.44C | Voltage:  11.42V | Current:   8.36A | Pressure:   0.05PSI
+[2025-10-26 11:06:58] PROPULSION      | Status: OFFLINE    | Temp:  -57.81C | Voltage:  23.86V | Current:   4.14A | Pressure:  12.65PSI
+  >> POSITION: Lat: -51.7599° Lon: -54.5032° Alt:    355015.71m
+[2025-10-25 17:14:40] COMMUNICATIONS  | Status: NOMINAL    | Temp: -146.35C | Voltage:  49.13V | Current:  14.04A | Pressure:   0.81PSI
+  >> EVENT: Solar panel deployment successful
+[2025-10-26 12:00:43] NAVIGATION      | Status: CRITICAL   | Temp:  -93.61C | Voltage:   7.40V | Current:  16.71A | Pressure:   4.21PSI
+[2025-10-26 12:40:45] THERMAL         | Status: OFFLINE    | Temp:  101.22C | Voltage:  43.28V | Current:   8.99A | Pressure:  10.41PSI
+[2025-10-25 19:52:04] COMMUNICATIONS  | Status: DEGRADED   | Temp: -142.34C | Voltage:  32.11V | Current:   4.00A | Pressure:   8.44PSI
+[2025-10-26 08:28:03] THERMAL         | Status: NOMINAL    | Temp: -139.46C | Voltage:  34.50V | Current:   4.00A | Pressure:   0.26PSI
+[2025-10-26 14:46:55] NAVIGATION      | Status: NOMINAL    | Temp:  -54.96C | Voltage:  22.92V | Current:   8.13A | Pressure:   0.02PSI
+[2025-10-25 21:38:17] THERMAL         | Status: NOMINAL    | Temp:  128.47C | Voltage:  14.73V | Current:  14.83A | Pressure:   5.77PSI
+[2025-10-26 02:38:17] LIFE_SUPPORT    | Status: WARNING    | Temp:  -71.02C | Voltage:   8.63V | Current:   3.11A | Pressure:   2.99PSI
+[2025-10-26 04:03:56] PROPULSION      | Status: OFFLINE    | Temp:  126.24C | Voltage:  43.08V | Current:   6.93A | Pressure:  10.35PSI
+  >> POSITION: Lat: -17.0122° Lon: -124.3352° Alt:    384535.09m
+[2025-10-25 20:30:57] POWER           | Status: WARNING    | Temp:  -81.90C | Voltage:  48.36V | Current:  13.93A | Pressure:  13.17PSI
+[2025-10-25 20:54:25] NAVIGATION      | Status: NOMINAL    | Temp: -100.93C | Voltage:  33.13V | Current:   1.67A | Pressure:   4.33PSI
+[2025-10-25 17:46:29] NAVIGATION      | Status: NOMINAL    | Temp:   -6.45C | Voltage:  14.74V | Current:   0.65A | Pressure:  14.66PSI
+[2025-10-26 06:47:35] PROPULSION      | Status: OFFLINE    | Temp:  -33.75C | Voltage:  44.81V | Current:   8.74A | Pressure:   5.65PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-25 17:28:53] NAVIGATION      | Status: WARNING    | Temp:  137.34C | Voltage:  39.36V | Current:  18.13A | Pressure:   4.10PSI
+[2025-10-25 17:37:19] THERMAL         | Status: DEGRADED   | Temp:   52.04C | Voltage:  31.47V | Current:   5.53A | Pressure:   0.86PSI
+[2025-10-26 01:10:37] NAVIGATION      | Status: DEGRADED   | Temp:  -32.09C | Voltage:  35.04V | Current:  19.39A | Pressure:   2.32PSI
+[2025-10-26 07:51:59] NAVIGATION      | Status: CRITICAL   | Temp:   64.57C | Voltage:  25.75V | Current:   7.74A | Pressure:  14.27PSI
+  >> EVENT: Radiation shield activated
+  >> POSITION: Lat:  61.0364° Lon: -100.3430° Alt:    263952.86m
+[2025-10-26 01:53:21] PROPULSION      | Status: WARNING    | Temp: -114.84C | Voltage:  32.44V | Current:  14.68A | Pressure:  12.90PSI
+[2025-10-26 03:11:33] COMMUNICATIONS  | Status: DEGRADED   | Temp:  112.58C | Voltage:  20.78V | Current:   1.78A | Pressure:   4.68PSI
+[2025-10-26 12:36:01] COMMUNICATIONS  | Status: OFFLINE    | Temp:   68.45C | Voltage:  40.40V | Current:  11.43A | Pressure:   1.19PSI
+[2025-10-26 11:32:09] PROPULSION      | Status: OFFLINE    | Temp:  134.79C | Voltage:  14.15V | Current:  13.61A | Pressure:  11.08PSI
+[2025-10-25 19:38:57] POWER           | Status: WARNING    | Temp: -139.80C | Voltage:  11.20V | Current:   5.33A | Pressure:   5.32PSI
+[2025-10-26 03:42:18] THERMAL         | Status: WARNING    | Temp:   77.82C | Voltage:   1.83V | Current:  10.14A | Pressure:  13.18PSI
+  >> POSITION: Lat:   8.2960° Lon:  96.3040° Alt:    200596.78m
+[2025-10-26 05:50:35] THERMAL         | Status: CRITICAL   | Temp:  120.66C | Voltage:  46.92V | Current:   3.69A | Pressure:   9.78PSI
+[2025-10-25 17:01:24] NAVIGATION      | Status: OFFLINE    | Temp:   36.31C | Voltage:   6.59V | Current:  10.39A | Pressure:   5.01PSI
+[2025-10-26 11:40:25] COMMUNICATIONS  | Status: NOMINAL    | Temp:   25.24C | Voltage:   6.56V | Current:  10.65A | Pressure:   8.73PSI
+[2025-10-26 01:12:59] COMMUNICATIONS  | Status: NOMINAL    | Temp: -141.33C | Voltage:   0.93V | Current:  18.85A | Pressure:   8.59PSI
+[2025-10-25 23:45:41] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  118.73C | Voltage:  12.38V | Current:   8.67A | Pressure:  12.87PSI
+[2025-10-25 23:20:58] NAVIGATION      | Status: OFFLINE    | Temp:  -93.11C | Voltage:   5.76V | Current:   9.63A | Pressure:   2.38PSI
+[2025-10-25 16:21:15] NAVIGATION      | Status: WARNING    | Temp: -125.09C | Voltage:  15.83V | Current:   5.38A | Pressure:   1.77PSI
+[2025-10-26 01:57:58] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -75.79C | Voltage:  38.79V | Current:   0.27A | Pressure:  12.22PSI
+[2025-10-26 14:47:49] PROPULSION      | Status: NOMINAL    | Temp:   68.07C | Voltage:  26.48V | Current:   4.56A | Pressure:  13.53PSI
+[2025-10-26 13:26:11] NAVIGATION      | Status: OFFLINE    | Temp:   54.59C | Voltage:  42.49V | Current:   1.58A | Pressure:   5.70PSI
+[2025-10-25 23:01:11] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  -23.81C | Voltage:  45.08V | Current:  10.69A | Pressure:   9.07PSI
+[2025-10-26 11:08:24] PROPULSION      | Status: OFFLINE    | Temp:  -35.16C | Voltage:  41.87V | Current:   8.47A | Pressure:   8.08PSI
+[2025-10-25 18:55:47] NAVIGATION      | Status: DEGRADED   | Temp:  129.23C | Voltage:  14.08V | Current:   7.23A | Pressure:   7.72PSI
+[2025-10-26 01:14:32] PROPULSION      | Status: NOMINAL    | Temp:   36.89C | Voltage:  36.01V | Current:   0.64A | Pressure:  13.72PSI
+[2025-10-26 07:38:01] PROPULSION      | Status: OFFLINE    | Temp:  101.26C | Voltage:  21.37V | Current:   9.92A | Pressure:   2.70PSI
+[2025-10-26 09:39:14] PROPULSION      | Status: NOMINAL    | Temp:   97.80C | Voltage:  26.05V | Current:  17.51A | Pressure:   9.81PSI
+[2025-10-25 16:37:40] LIFE_SUPPORT    | Status: CRITICAL   | Temp:   59.91C | Voltage:  12.28V | Current:  15.44A | Pressure:  13.43PSI
+[2025-10-25 22:53:19] POWER           | Status: CRITICAL   | Temp:   91.67C | Voltage:  26.30V | Current:   6.67A | Pressure:   0.96PSI
+[2025-10-25 21:49:43] PROPULSION      | Status: NOMINAL    | Temp:  -90.30C | Voltage:  48.62V | Current:   7.61A | Pressure:   9.56PSI
+[2025-10-25 18:29:13] NAVIGATION      | Status: WARNING    | Temp:  -10.00C | Voltage:   1.98V | Current:  18.11A | Pressure:  14.54PSI
+[2025-10-26 12:05:21] THERMAL         | Status: WARNING    | Temp:  -29.86C | Voltage:   6.27V | Current:  10.76A | Pressure:   9.22PSI
+[2025-10-25 22:07:29] NAVIGATION      | Status: WARNING    | Temp: -107.20C | Voltage:   7.38V | Current:   4.09A | Pressure:   6.81PSI
+[2025-10-26 09:55:01] NAVIGATION      | Status: NOMINAL    | Temp:  136.45C | Voltage:  49.22V | Current:  15.01A | Pressure:  10.43PSI
+[2025-10-25 23:07:42] THERMAL         | Status: DEGRADED   | Temp: -107.75C | Voltage:  39.48V | Current:  17.03A | Pressure:  10.62PSI
+[2025-10-26 11:34:45] THERMAL         | Status: DEGRADED   | Temp:  100.64C | Voltage:  27.10V | Current:   6.44A | Pressure:   7.43PSI
+[2025-10-25 18:44:05] POWER           | Status: OFFLINE    | Temp:   24.03C | Voltage:  48.85V | Current:   2.31A | Pressure:   7.39PSI
+[2025-10-25 21:22:16] COMMUNICATIONS  | Status: WARNING    | Temp:  -32.00C | Voltage:  10.50V | Current:  10.94A | Pressure:  13.52PSI
+[2025-10-25 22:14:06] PROPULSION      | Status: DEGRADED   | Temp:  -42.32C | Voltage:  46.89V | Current:  12.06A | Pressure:   5.12PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 13:49:58] THERMAL         | Status: NOMINAL    | Temp:  -61.84C | Voltage:  42.60V | Current:  12.07A | Pressure:   7.33PSI
+  >> POSITION: Lat:  33.2432° Lon: -99.5676° Alt:    250849.42m
+[2025-10-26 02:16:53] NAVIGATION      | Status: OFFLINE    | Temp:  -55.83C | Voltage:  48.39V | Current:  14.70A | Pressure:   6.16PSI
+[2025-10-26 12:10:46] NAVIGATION      | Status: CRITICAL   | Temp:  101.17C | Voltage:  19.26V | Current:   5.97A | Pressure:   7.28PSI
+[2025-10-26 03:51:33] COMMUNICATIONS  | Status: NOMINAL    | Temp:  -89.32C | Voltage:  33.10V | Current:   8.41A | Pressure:   7.27PSI
+[2025-10-25 21:28:40] NAVIGATION      | Status: CRITICAL   | Temp:   33.28C | Voltage:  38.85V | Current:   4.67A | Pressure:   7.74PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 19:13:53] COMMUNICATIONS  | Status: CRITICAL   | Temp:  -89.69C | Voltage:  44.88V | Current:   3.41A | Pressure:  14.49PSI
+  >> POSITION: Lat: -16.4047° Lon: 125.5985° Alt:    378668.05m
+[2025-10-26 01:07:04] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   44.58C | Voltage:  46.32V | Current:   6.46A | Pressure:  12.44PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-26 01:54:00] COMMUNICATIONS  | Status: OFFLINE    | Temp:  -49.18C | Voltage:  47.65V | Current:   9.30A | Pressure:   5.33PSI
+[2025-10-25 20:22:34] PROPULSION      | Status: DEGRADED   | Temp:  -66.55C | Voltage:  13.85V | Current:  14.71A | Pressure:  11.22PSI
+[2025-10-26 05:31:04] POWER           | Status: DEGRADED   | Temp:   74.68C | Voltage:  44.69V | Current:   0.32A | Pressure:  13.34PSI
+[2025-10-25 23:34:59] POWER           | Status: NOMINAL    | Temp:   99.47C | Voltage:  26.44V | Current:  17.83A | Pressure:   6.46PSI
+[2025-10-26 00:22:34] THERMAL         | Status: CRITICAL   | Temp:  -74.29C | Voltage:  30.05V | Current:  16.08A | Pressure:  13.80PSI
+[2025-10-26 12:42:03] COMMUNICATIONS  | Status: WARNING    | Temp:   20.54C | Voltage:   4.24V | Current:  15.64A | Pressure:  14.34PSI
+[2025-10-25 15:48:10] PROPULSION      | Status: CRITICAL   | Temp:   37.89C | Voltage:   6.22V | Current:   0.65A | Pressure:   7.86PSI
+[2025-10-26 06:30:33] POWER           | Status: OFFLINE    | Temp:   78.15C | Voltage:  47.63V | Current:   7.02A | Pressure:   1.61PSI
+[2025-10-26 14:48:36] NAVIGATION      | Status: OFFLINE    | Temp: -134.24C | Voltage:  26.97V | Current:   3.16A | Pressure:   0.59PSI
+[2025-10-26 04:57:36] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -54.59C | Voltage:  20.69V | Current:  15.55A | Pressure:   5.14PSI
+[2025-10-25 17:20:25] THERMAL         | Status: DEGRADED   | Temp:  -53.23C | Voltage:   2.58V | Current:   0.40A | Pressure:   4.35PSI
+[2025-10-26 13:28:17] POWER           | Status: OFFLINE    | Temp:   20.30C | Voltage:  45.83V | Current:  11.89A | Pressure:   0.02PSI
+[2025-10-26 02:48:47] NAVIGATION      | Status: WARNING    | Temp:  101.19C | Voltage:  23.39V | Current:  19.17A | Pressure:  12.12PSI
+[2025-10-25 17:02:47] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -28.08C | Voltage:  43.92V | Current:   8.55A | Pressure:   2.24PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-25 17:51:55] THERMAL         | Status: WARNING    | Temp:  103.03C | Voltage:   8.94V | Current:  17.44A | Pressure:   8.96PSI
+[2025-10-25 22:25:19] POWER           | Status: OFFLINE    | Temp:  -98.27C | Voltage:  22.41V | Current:   7.62A | Pressure:   4.13PSI
+[2025-10-26 12:03:42] COMMUNICATIONS  | Status: OFFLINE    | Temp:   73.29C | Voltage:  40.54V | Current:   5.25A | Pressure:  14.67PSI
+[2025-10-25 17:08:23] COMMUNICATIONS  | Status: DEGRADED   | Temp: -122.80C | Voltage:  24.95V | Current:  10.76A | Pressure:   0.39PSI
+[2025-10-25 23:39:07] THERMAL         | Status: WARNING    | Temp:   24.61C | Voltage:  25.01V | Current:   5.69A | Pressure:   7.94PSI
+[2025-10-26 05:24:50] PROPULSION      | Status: NOMINAL    | Temp:   18.13C | Voltage:  31.86V | Current:   8.82A | Pressure:   3.57PSI
+[2025-10-25 20:00:09] THERMAL         | Status: DEGRADED   | Temp:  -66.87C | Voltage:  45.53V | Current:  13.18A | Pressure:   2.79PSI
+[2025-10-25 18:24:37] PROPULSION      | Status: CRITICAL   | Temp:  -68.75C | Voltage:  37.26V | Current:   6.04A | Pressure:  11.45PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 03:10:16] NAVIGATION      | Status: NOMINAL    | Temp:   52.56C | Voltage:  26.51V | Current:  10.80A | Pressure:   7.16PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-26 11:15:35] POWER           | Status: OFFLINE    | Temp:  -47.63C | Voltage:  36.38V | Current:  12.64A | Pressure:   5.19PSI
+[2025-10-26 04:47:23] NAVIGATION      | Status: DEGRADED   | Temp:   19.17C | Voltage:  35.38V | Current:   9.19A | Pressure:   9.06PSI
+  >> POSITION: Lat: -46.5888° Lon: -76.1790° Alt:    261736.60m
+[2025-10-25 23:03:18] THERMAL         | Status: NOMINAL    | Temp:  -29.29C | Voltage:  11.08V | Current:   9.68A | Pressure:  14.76PSI
+[2025-10-26 10:50:26] COMMUNICATIONS  | Status: DEGRADED   | Temp:   11.94C | Voltage:  11.37V | Current:   0.33A | Pressure:  11.90PSI
+[2025-10-25 17:30:24] THERMAL         | Status: WARNING    | Temp: -115.06C | Voltage:  23.22V | Current:   2.24A | Pressure:   0.86PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 04:32:49] LIFE_SUPPORT    | Status: WARNING    | Temp:  130.18C | Voltage:  49.04V | Current:   8.08A | Pressure:  11.16PSI
+[2025-10-25 16:24:03] THERMAL         | Status: OFFLINE    | Temp:   -9.82C | Voltage:  18.57V | Current:  10.74A | Pressure:  10.97PSI
+[2025-10-26 01:28:22] NAVIGATION      | Status: OFFLINE    | Temp:  136.90C | Voltage:  27.64V | Current:   7.99A | Pressure:   6.01PSI
+[2025-10-26 09:33:42] POWER           | Status: CRITICAL   | Temp:   91.27C | Voltage:  17.95V | Current:   6.03A | Pressure:   7.32PSI
+[2025-10-26 09:39:22] PROPULSION      | Status: OFFLINE    | Temp: -110.00C | Voltage:  25.32V | Current:   7.62A | Pressure:  14.61PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 08:34:00] POWER           | Status: WARNING    | Temp:   78.65C | Voltage:  39.47V | Current:   6.82A | Pressure:   2.12PSI
+[2025-10-26 10:14:46] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  135.73C | Voltage:   8.23V | Current:  19.83A | Pressure:   5.03PSI
+[2025-10-26 00:03:10] NAVIGATION      | Status: WARNING    | Temp:  -71.84C | Voltage:   5.34V | Current:  14.52A | Pressure:  13.78PSI
+  >> POSITION: Lat: -40.4643° Lon:  60.0904° Alt:    397330.87m
+[2025-10-26 07:50:29] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  107.31C | Voltage:  41.80V | Current:   5.67A | Pressure:  13.22PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 07:03:25] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   46.56C | Voltage:  47.88V | Current:   7.08A | Pressure:   6.48PSI
+  >> POSITION: Lat: -18.7239° Lon: -10.8118° Alt:    215658.93m
+[2025-10-25 21:36:47] THERMAL         | Status: CRITICAL   | Temp:  122.58C | Voltage:  11.35V | Current:  10.38A | Pressure:  12.69PSI
+[2025-10-26 05:42:33] NAVIGATION      | Status: DEGRADED   | Temp:  -49.21C | Voltage:  12.49V | Current:   1.62A | Pressure:  12.72PSI
+[2025-10-26 11:03:09] LIFE_SUPPORT    | Status: NOMINAL    | Temp: -112.78C | Voltage:  35.58V | Current:  11.26A | Pressure:   7.03PSI
+  >> POSITION: Lat:  -4.2450° Lon: -86.4696° Alt:    351016.72m
+[2025-10-25 20:45:17] PROPULSION      | Status: NOMINAL    | Temp: -114.69C | Voltage:  35.70V | Current:   5.42A | Pressure:   1.44PSI
+[2025-10-26 05:10:27] LIFE_SUPPORT    | Status: WARNING    | Temp:    3.92C | Voltage:  10.36V | Current:  11.49A | Pressure:   1.97PSI
+[2025-10-26 13:30:40] COMMUNICATIONS  | Status: OFFLINE    | Temp: -109.65C | Voltage:   1.93V | Current:   8.62A | Pressure:   5.68PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-25 17:45:46] LIFE_SUPPORT    | Status: CRITICAL   | Temp:   41.89C | Voltage:  37.81V | Current:   2.22A | Pressure:   8.80PSI
+[2025-10-26 01:48:02] POWER           | Status: NOMINAL    | Temp:   66.85C | Voltage:  11.34V | Current:  17.96A | Pressure:   9.54PSI
+[2025-10-26 07:27:16] PROPULSION      | Status: WARNING    | Temp:  -33.60C | Voltage:  39.99V | Current:   3.54A | Pressure:   2.28PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 16:10:25] LIFE_SUPPORT    | Status: DEGRADED   | Temp:  -79.22C | Voltage:  11.70V | Current:  15.10A | Pressure:   5.41PSI
+[2025-10-26 05:23:08] NAVIGATION      | Status: OFFLINE    | Temp:  -29.09C | Voltage:   3.58V | Current:  17.81A | Pressure:   3.41PSI
+[2025-10-26 07:45:44] NAVIGATION      | Status: NOMINAL    | Temp:  -95.91C | Voltage:  40.95V | Current:   6.04A | Pressure:   2.43PSI
+  >> POSITION: Lat:  23.3209° Lon:  21.3966° Alt:    265487.49m
+[2025-10-26 10:00:59] THERMAL         | Status: WARNING    | Temp:  111.25C | Voltage:   3.09V | Current:  12.87A | Pressure:   1.44PSI
+[2025-10-25 21:19:26] LIFE_SUPPORT    | Status: WARNING    | Temp:   55.51C | Voltage:   0.12V | Current:   2.33A | Pressure:  13.37PSI
+[2025-10-25 18:11:03] PROPULSION      | Status: WARNING    | Temp: -149.15C | Voltage:  30.51V | Current:  15.08A | Pressure:   1.03PSI
+[2025-10-26 05:26:56] THERMAL         | Status: WARNING    | Temp:   49.40C | Voltage:  23.06V | Current:   6.98A | Pressure:  12.39PSI
+[2025-10-25 21:13:29] COMMUNICATIONS  | Status: DEGRADED   | Temp:   64.21C | Voltage:  47.05V | Current:   9.72A | Pressure:   1.92PSI
+[2025-10-26 03:31:40] THERMAL         | Status: NOMINAL    | Temp:   23.69C | Voltage:  48.25V | Current:  12.05A | Pressure:   7.76PSI
+[2025-10-26 04:43:04] NAVIGATION      | Status: CRITICAL   | Temp:   99.60C | Voltage:  21.92V | Current:  13.78A | Pressure:  12.97PSI
+[2025-10-26 04:03:40] POWER           | Status: OFFLINE    | Temp:   16.95C | Voltage:  28.78V | Current:   2.88A | Pressure:  14.27PSI
+[2025-10-25 17:11:27] PROPULSION      | Status: DEGRADED   | Temp:  -26.44C | Voltage:  37.70V | Current:  17.13A | Pressure:   2.30PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 13:36:17] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  -74.93C | Voltage:  36.14V | Current:  16.25A | Pressure:   0.24PSI
+  >> POSITION: Lat: -12.0316° Lon: -116.6311° Alt:    304637.95m
+[2025-10-26 04:53:45] LIFE_SUPPORT    | Status: NOMINAL    | Temp: -132.47C | Voltage:  15.85V | Current:   1.27A | Pressure:   4.14PSI
+[2025-10-26 10:26:34] NAVIGATION      | Status: DEGRADED   | Temp:  -12.24C | Voltage:  32.41V | Current:   7.64A | Pressure:   0.44PSI
+[2025-10-26 10:33:07] COMMUNICATIONS  | Status: CRITICAL   | Temp:  145.37C | Voltage:  43.58V | Current:   1.78A | Pressure:   4.89PSI
+[2025-10-26 05:57:36] POWER           | Status: WARNING    | Temp: -127.29C | Voltage:  42.29V | Current:   6.96A | Pressure:   9.24PSI
+[2025-10-26 09:18:10] POWER           | Status: CRITICAL   | Temp:  -89.93C | Voltage:   1.28V | Current:   3.61A | Pressure:   5.74PSI
+[2025-10-26 08:09:57] POWER           | Status: DEGRADED   | Temp:  -27.52C | Voltage:  12.28V | Current:   0.78A | Pressure:  10.31PSI
+[2025-10-26 10:26:21] NAVIGATION      | Status: CRITICAL   | Temp: -132.81C | Voltage:   2.34V | Current:   4.23A | Pressure:   3.35PSI
+[2025-10-25 21:27:28] COMMUNICATIONS  | Status: DEGRADED   | Temp:  109.61C | Voltage:  36.99V | Current:  17.61A | Pressure:   3.09PSI
+[2025-10-26 09:13:32] THERMAL         | Status: DEGRADED   | Temp:  -41.53C | Voltage:   2.01V | Current:  16.55A | Pressure:   3.41PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-26 07:11:36] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   96.00C | Voltage:  39.86V | Current:   0.72A | Pressure:  12.41PSI
+[2025-10-26 13:14:56] COMMUNICATIONS  | Status: CRITICAL   | Temp:   12.51C | Voltage:  47.01V | Current:   3.90A | Pressure:   4.13PSI
+[2025-10-26 14:39:47] NAVIGATION      | Status: WARNING    | Temp:   42.55C | Voltage:  26.48V | Current:   7.92A | Pressure:   8.28PSI
+[2025-10-26 09:38:02] NAVIGATION      | Status: OFFLINE    | Temp:   15.39C | Voltage:  45.67V | Current:   4.44A | Pressure:   8.59PSI
+[2025-10-25 16:33:44] PROPULSION      | Status: OFFLINE    | Temp:   24.28C | Voltage:  48.61V | Current:   5.52A | Pressure:   8.50PSI
+  >> EVENT: Data downlink scheduled
+[2025-10-25 20:27:01] PROPULSION      | Status: OFFLINE    | Temp:  -76.57C | Voltage:  33.99V | Current:  18.22A | Pressure:   5.87PSI
+[2025-10-26 11:02:07] LIFE_SUPPORT    | Status: CRITICAL   | Temp: -118.47C | Voltage:  44.04V | Current:   8.07A | Pressure:  11.77PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-25 15:35:25] PROPULSION      | Status: NOMINAL    | Temp:  -94.28C | Voltage:   8.48V | Current:   4.34A | Pressure:  10.03PSI
+[2025-10-26 11:20:58] LIFE_SUPPORT    | Status: OFFLINE    | Temp: -120.80C | Voltage:  23.45V | Current:   6.02A | Pressure:  13.40PSI
+[2025-10-26 01:29:52] POWER           | Status: WARNING    | Temp:  -11.34C | Voltage:  17.04V | Current:  11.87A | Pressure:   1.27PSI
+[2025-10-25 17:20:29] PROPULSION      | Status: NOMINAL    | Temp:   20.06C | Voltage:  18.83V | Current:  14.19A | Pressure:   5.24PSI
+  >> EVENT: Orbital correction maneuver executed
+[2025-10-25 18:47:48] NAVIGATION      | Status: OFFLINE    | Temp:  -67.44C | Voltage:  22.06V | Current:  13.54A | Pressure:  10.48PSI
+[2025-10-26 08:31:08] COMMUNICATIONS  | Status: NOMINAL    | Temp: -102.40C | Voltage:  27.89V | Current:  13.84A | Pressure:   6.46PSI
+[2025-10-26 10:43:07] THERMAL         | Status: NOMINAL    | Temp:   62.93C | Voltage:  16.87V | Current:   0.34A | Pressure:   4.50PSI
+[2025-10-26 11:15:34] COMMUNICATIONS  | Status: WARNING    | Temp:   39.42C | Voltage:  30.04V | Current:   4.18A | Pressure:   9.67PSI
+[2025-10-26 11:22:05] NAVIGATION      | Status: CRITICAL   | Temp:   37.88C | Voltage:  14.06V | Current:  18.16A | Pressure:  13.89PSI
+[2025-10-25 22:37:36] COMMUNICATIONS  | Status: CRITICAL   | Temp:   81.27C | Voltage:  44.04V | Current:   1.50A | Pressure:  11.62PSI
+[2025-10-26 01:08:09] POWER           | Status: NOMINAL    | Temp:   23.98C | Voltage:  19.90V | Current:   7.78A | Pressure:   5.24PSI
+[2025-10-26 07:18:25] COMMUNICATIONS  | Status: DEGRADED   | Temp:   89.50C | Voltage:  30.13V | Current:  17.86A | Pressure:  14.78PSI
+[2025-10-26 14:39:13] COMMUNICATIONS  | Status: CRITICAL   | Temp: -125.58C | Voltage:  42.74V | Current:   0.77A | Pressure:  14.52PSI
+[2025-10-25 17:43:24] POWER           | Status: CRITICAL   | Temp: -101.08C | Voltage:   5.71V | Current:   6.71A | Pressure:  13.75PSI
+[2025-10-25 17:14:12] LIFE_SUPPORT    | Status: WARNING    | Temp:   23.05C | Voltage:  34.46V | Current:   4.99A | Pressure:  11.01PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-25 21:57:45] PROPULSION      | Status: CRITICAL   | Temp:  -96.69C | Voltage:   4.79V | Current:  11.16A | Pressure:   2.39PSI
+[2025-10-25 16:14:44] THERMAL         | Status: WARNING    | Temp:   -1.48C | Voltage:  33.03V | Current:  16.73A | Pressure:   7.27PSI
+[2025-10-25 23:15:52] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   29.93C | Voltage:  38.25V | Current:  10.26A | Pressure:   4.57PSI
+[2025-10-26 02:51:07] COMMUNICATIONS  | Status: OFFLINE    | Temp: -105.21C | Voltage:  13.52V | Current:  15.41A | Pressure:   9.90PSI
+[2025-10-25 16:47:56] NAVIGATION      | Status: WARNING    | Temp:  119.44C | Voltage:   8.30V | Current:   7.99A | Pressure:   4.12PSI
+  >> POSITION: Lat:  58.5751° Lon: -69.6796° Alt:    352754.21m
+[2025-10-26 04:01:09] COMMUNICATIONS  | Status: CRITICAL   | Temp:  -67.76C | Voltage:  10.49V | Current:   9.40A | Pressure:  10.73PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-25 21:31:19] POWER           | Status: OFFLINE    | Temp:  123.42C | Voltage:   2.81V | Current:   5.88A | Pressure:   8.08PSI
+[2025-10-25 22:04:13] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  -12.89C | Voltage:  19.69V | Current:  10.47A | Pressure:  11.91PSI
+[2025-10-26 01:36:27] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  118.20C | Voltage:  43.72V | Current:  11.76A | Pressure:   5.00PSI
+[2025-10-25 20:32:38] LIFE_SUPPORT    | Status: OFFLINE    | Temp:  143.55C | Voltage:  41.24V | Current:  17.21A | Pressure:   5.22PSI
+[2025-10-25 20:04:10] PROPULSION      | Status: CRITICAL   | Temp:  -56.93C | Voltage:  44.06V | Current:  16.09A | Pressure:   3.37PSI
+[2025-10-26 02:38:37] LIFE_SUPPORT    | Status: DEGRADED   | Temp:   -5.17C | Voltage:  45.06V | Current:   4.92A | Pressure:   0.78PSI
+[2025-10-26 04:25:08] PROPULSION      | Status: DEGRADED   | Temp:  120.89C | Voltage:  10.39V | Current:  10.95A | Pressure:   6.70PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-26 07:46:00] NAVIGATION      | Status: DEGRADED   | Temp:   36.48C | Voltage:  19.46V | Current:   1.43A | Pressure:  13.74PSI
+[2025-10-26 02:55:57] NAVIGATION      | Status: CRITICAL   | Temp: -109.73C | Voltage:  40.25V | Current:  12.76A | Pressure:  11.37PSI
+[2025-10-26 08:24:26] THERMAL         | Status: OFFLINE    | Temp:  135.67C | Voltage:  48.65V | Current:   2.09A | Pressure:   8.96PSI
+[2025-10-26 14:30:54] COMMUNICATIONS  | Status: DEGRADED   | Temp:  103.16C | Voltage:  39.73V | Current:  13.22A | Pressure:  13.61PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-25 20:02:10] COMMUNICATIONS  | Status: NOMINAL    | Temp:  104.48C | Voltage:  37.75V | Current:   2.53A | Pressure:   5.78PSI
+[2025-10-26 08:56:46] NAVIGATION      | Status: CRITICAL   | Temp:  -83.59C | Voltage:  24.45V | Current:   1.56A | Pressure:  10.40PSI
+[2025-10-26 00:24:02] POWER           | Status: CRITICAL   | Temp:   48.03C | Voltage:   6.34V | Current:  16.60A | Pressure:   1.79PSI
+[2025-10-26 13:53:45] POWER           | Status: DEGRADED   | Temp:  -90.03C | Voltage:  37.26V | Current:  17.07A | Pressure:   4.64PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 11:53:15] PROPULSION      | Status: NOMINAL    | Temp:   55.14C | Voltage:   1.67V | Current:  16.00A | Pressure:  12.36PSI
+[2025-10-26 07:27:11] NAVIGATION      | Status: WARNING    | Temp:   46.15C | Voltage:  14.77V | Current:   7.54A | Pressure:   7.79PSI
+[2025-10-25 16:54:28] PROPULSION      | Status: DEGRADED   | Temp: -140.60C | Voltage:  25.32V | Current:   5.21A | Pressure:   7.18PSI
+[2025-10-26 03:44:55] POWER           | Status: DEGRADED   | Temp:    0.44C | Voltage:  40.82V | Current:   5.13A | Pressure:  14.32PSI
+[2025-10-25 22:10:59] POWER           | Status: WARNING    | Temp:  -34.54C | Voltage:  39.35V | Current:   8.08A | Pressure:  13.50PSI
+[2025-10-26 09:49:43] POWER           | Status: NOMINAL    | Temp:   37.86C | Voltage:  16.40V | Current:   9.66A | Pressure:  12.11PSI
+[2025-10-25 19:02:52] PROPULSION      | Status: CRITICAL   | Temp:  116.03C | Voltage:  44.87V | Current:  15.43A | Pressure:   0.67PSI
+[2025-10-25 18:24:36] POWER           | Status: NOMINAL    | Temp: -113.83C | Voltage:  43.45V | Current:   5.78A | Pressure:   0.38PSI
+[2025-10-26 09:29:11] COMMUNICATIONS  | Status: NOMINAL    | Temp:  -83.26C | Voltage:  19.32V | Current:  17.59A | Pressure:  14.21PSI
+[2025-10-26 03:25:45] PROPULSION      | Status: OFFLINE    | Temp:  133.19C | Voltage:  39.03V | Current:  16.47A | Pressure:   3.94PSI
+[2025-10-25 23:27:52] LIFE_SUPPORT    | Status: OFFLINE    | Temp:   57.10C | Voltage:  13.15V | Current:  12.08A | Pressure:  10.67PSI
+[2025-10-25 20:52:11] COMMUNICATIONS  | Status: WARNING    | Temp:  105.44C | Voltage:  26.88V | Current:   5.76A | Pressure:   8.41PSI
+[2025-10-25 20:46:58] NAVIGATION      | Status: DEGRADED   | Temp: -148.95C | Voltage:   1.81V | Current:   0.37A | Pressure:   6.29PSI
+[2025-10-26 05:44:20] PROPULSION      | Status: CRITICAL   | Temp:  105.35C | Voltage:  45.22V | Current:  10.92A | Pressure:   6.09PSI
+[2025-10-26 01:20:11] THERMAL         | Status: CRITICAL   | Temp:   96.80C | Voltage:   4.08V | Current:   3.90A | Pressure:  10.44PSI
+[2025-10-26 13:43:21] NAVIGATION      | Status: NOMINAL    | Temp:  149.21C | Voltage:  28.57V | Current:   8.94A | Pressure:  10.27PSI
+[2025-10-26 09:18:33] THERMAL         | Status: WARNING    | Temp:  -31.69C | Voltage:  37.84V | Current:   4.15A | Pressure:   5.34PSI
+  >> EVENT: Instrument calibration in progress
+[2025-10-26 08:42:59] POWER           | Status: WARNING    | Temp:  -22.89C | Voltage:  50.00V | Current:   6.51A | Pressure:   0.49PSI
+[2025-10-26 14:12:59] LIFE_SUPPORT    | Status: CRITICAL   | Temp:  134.30C | Voltage:  47.65V | Current:   7.09A | Pressure:   8.09PSI
+  >> EVENT: Antenna realignment complete
+[2025-10-26 03:33:09] POWER           | Status: CRITICAL   | Temp:   45.99C | Voltage:  26.96V | Current:  16.41A | Pressure:   3.22PSI
+[2025-10-26 03:20:20] THERMAL         | Status: OFFLINE    | Temp:  -52.25C | Voltage:   1.31V | Current:   4.69A | Pressure:   5.79PSI
+  >> EVENT: Instrument calibration in progress
+  >> POSITION: Lat: -38.3907° Lon: -123.4575° Alt:    239030.76m
+[2025-10-26 04:09:05] PROPULSION      | Status: WARNING    | Temp: -108.32C | Voltage:  27.04V | Current:  12.17A | Pressure:   1.46PSI
+[2025-10-25 22:15:20] POWER           | Status: NOMINAL    | Temp:   14.03C | Voltage:   6.42V | Current:   9.80A | Pressure:   7.01PSI
+  >> EVENT: Thruster test sequence initiated
+[2025-10-26 03:01:21] PROPULSION      | Status: OFFLINE    | Temp:  -91.38C | Voltage:  34.53V | Current:   8.74A | Pressure:   0.59PSI
+[2025-10-26 09:18:57] THERMAL         | Status: OFFLINE    | Temp:  -99.42C | Voltage:  15.19V | Current:   5.97A | Pressure:   0.51PSI
+[2025-10-26 14:22:46] LIFE_SUPPORT    | Status: NOMINAL    | Temp:   49.93C | Voltage:   4.39V | Current:   1.21A | Pressure:   5.97PSI
+[2025-10-26 12:53:18] LIFE_SUPPORT    | Status: WARNING    | Temp:  134.99C | Voltage:  44.06V | Current:   5.08A | Pressure:   7.96PSI
+[2025-10-25 16:37:24] POWER           | Status: CRITICAL   | Temp:   72.11C | Voltage:  13.94V | Current:  16.69A | Pressure:   4.68PSI
+[2025-10-26 13:29:22] NAVIGATION      | Status: CRITICAL   | Temp:   71.13C | Voltage:  16.97V | Current:  19.01A | Pressure:   6.56PSI
+[2025-10-25 23:33:41] THERMAL         | Status: OFFLINE    | Temp:   58.02C | Voltage:  16.74V | Current:   9.03A | Pressure:   5.68PSI
+[2025-10-26 13:19:58] LIFE_SUPPORT    | Status: WARNING    | Temp:  115.68C | Voltage:   2.59V | Current:  15.73A | Pressure:   1.46PSI
+[2025-10-25 22:26:59] COMMUNICATIONS  | Status: CRITICAL   | Temp:   29.57C | Voltage:  42.99V | Current:  12.82A | Pressure:   9.72PSI
+  >> POSITION: Lat: -65.6104° Lon: 110.4245° Alt:    245246.97m
+[2025-10-25 17:03:20] PROPULSION      | Status: OFFLINE    | Temp:   17.67C | Voltage:  35.28V | Current:   9.20A | Pressure:   3.00PSI
+[2025-10-26 05:11:19] POWER           | Status: WARNING    | Temp:  -10.00C | Voltage:  38.25V | Current:   9.91A | Pressure:  10.74PSI
+[2025-10-26 09:38:11] NAVIGATION      | Status: NOMINAL    | Temp:   77.49C | Voltage:   5.20V | Current:  13.54A | Pressure:  10.84PSI
+[2025-10-26 09:25:40] NAVIGATION      | Status: NOMINAL    | Temp:  106.81C | Voltage:  16.04V | Current:  16.80A | Pressure:   0.57PSI
+  >> EVENT: Battery charging cycle started
+[2025-10-26 00:15:38] PROPULSION      | Status: NOMINAL    | Temp:  -59.05C | Voltage:  45.96V | Current:   7.05A | Pressure:   7.99PSI
+[2025-10-26 01:19:41] COMMUNICATIONS  | Status: OFFLINE    | Temp:  141.51C | Voltage:  43.09V | Current:  16.91A | Pressure:   6.15PSI
+[2025-10-26 03:24:29] COMMUNICATIONS  | Status: NOMINAL    | Temp: -114.92C | Voltage:  16.84V | Current:   7.85A | Pressure:  12.12PSI
+[2025-10-26 13:10:13] POWER           | Status: CRITICAL   | Temp:  -59.69C | Voltage:  49.74V | Current:  14.66A | Pressure:   4.92PSI
+[2025-10-26 09:27:10] LIFE_SUPPORT    | Status: NOMINAL    | Temp:  101.06C | Voltage:  41.66V | Current:   1.00A | Pressure:   0.80PSI
+[2025-10-26 13:17:27] THERMAL         | Status: DEGRADED   | Temp:   46.59C | Voltage:  10.11V | Current:   9.68A | Pressure:   2.74PSI
+  >> EVENT: Radiation shield activated
+[2025-10-26 12:36:57] PROPULSION      | Status: CRITICAL   | Temp: -118.61C | Voltage:  38.81V | Current:  11.19A | Pressure:   8.03PSI
+
+================================================================================
+END OF TRANSMISSION
+================================================================================
