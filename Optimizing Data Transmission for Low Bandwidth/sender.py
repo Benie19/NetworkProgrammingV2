@@ -1,7 +1,6 @@
 import argparse
 import gzip
 import heapq
-import imghdr
 import io
 import math
 import socket
@@ -30,23 +29,28 @@ logging.basicConfig(level=logging.INFO, format='[%(asctime)s] %(message)s')
 
 def compress_data(path: str):
     b = open(path, 'rb').read()
-    kind = imghdr.what(None, h=b)
-    if kind is not None:
-        # it's an image
-        if PIL_AVAILABLE:
+    # Prefer Pillow-based detection and re-encoding when available.
+    if PIL_AVAILABLE:
+        try:
             img = Image.open(io.BytesIO(b))
             out = io.BytesIO()
             img.save(out, 'JPEG', quality=70)
             logging.info('Compressed image %s -> JPEG (lossy)', path)
             return out.getvalue(), COMP_JPEG
-        else:
-            logging.warning('Pillow not installed; sending raw image bytes and marking as JPEG')
-            return b, COMP_JPEG
-    else:
-        # default: gzip compress
-        comp = gzip.compress(b, mtime=0)
-        logging.info('Gzip compressed %s: %d -> %d bytes', path, len(b), len(comp))
-        return comp, COMP_GZIP
+        except Exception:
+            # Not an image (or Pillow failed to parse) — fall through to gzip.
+            pass
+
+    # If Pillow isn't available, use filename extension heuristic for images.
+    lower = path.lower()
+    if lower.endswith(('.jpg', '.jpeg', '.png', '.bmp', '.gif', '.tiff', '.webp')):
+        logging.warning('Pillow not installed or could not parse image; sending raw image bytes and marking as JPEG')
+        return b, COMP_JPEG
+
+    # default: gzip compress
+    comp = gzip.compress(b, mtime=0)
+    logging.info('Gzip compressed %s: %d -> %d bytes', path, len(b), len(comp))
+    return comp, COMP_GZIP
 
 
 def split_into_shards(data: bytes, k: int):
