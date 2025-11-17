@@ -1,0 +1,4 @@
+2025-11-16 20:30:19,902 INFO: Stored message for earth_mission_control from mars_base_1
+2025-11-17 07:53:05,046 INFO: Stored message for earth_mission_control from mars_base_1
+2025-11-17 07:53:09,450 INFO: Successfully received message from mars_base_1 (recipient earth_mission_control)
+2025-11-17 07:53:10,434 INFO: Forwarded 1 messages to earth_mission_control
