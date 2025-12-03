@@ -1,0 +1,7 @@
+{
+  "allowed_ips": ["192.168.1.1", "192.168.1.2", "10.0.0.1"],
+  "blocked_ports": [23, 80, 3389],
+  "allowed_countries": ["US", "CA", "GB", "FR", "DE"],
+  "rate_limit": 10,
+  "rate_window": 60
+}
